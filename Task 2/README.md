@@ -1,4 +1,4 @@
-# Tic Tac Toe Program Using Alpha - Beta Pruning and Min - Max Algorithm
+# Tic Tac Toe Program Using Min - Max Algorithm
 This Tic Tac Toe program is a command-line implementation of the classic game where a human player competes against an AI. The AI uses the Minimax algorithm with alpha-beta pruning to make optimal moves. The game is played on a 3x3 grid, and the goal is to get three of your symbols (either 'X' or 'O') in a row, column, or diagonal.
 
 ## Key Components
