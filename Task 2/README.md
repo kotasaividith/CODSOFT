@@ -50,7 +50,7 @@ This function uses the minimax function to find and return the best move for the
 ### 9. Function playGame():
 This function manages the game play loop, prompting the user for moves, switching turns, and checking for a winner or draw.
 
-# Usage:
+## Usage:
 Run the program to start a game of Tic Tac Toe.
 Choose who will go first: the human player or the AI.
 Make moves by entering positions (1-9) on the board.
